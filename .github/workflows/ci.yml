@@ -1,4 +1,5 @@
-me: API workflow
+name: API workflow
+
 
 on: [push, pull_request]
 
